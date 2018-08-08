@@ -23,3 +23,5 @@ end
 gem 'hanami-devtools', require: false, git: 'https://github.com/hanami/devtools.git'
 gem 'simplecov', require: false
 gem 'codecov',   require: false
+
+gem "rom-sql", :git => "https://8ec097bc737c3edf7b8b7a6d0e5eb00451edd52c:x-oauth-basic@github.com/GetBlast/rom-sql", :branch => 'dry_types_0.12.x'
